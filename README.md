@@ -1,0 +1,1 @@
+preciso incluir as funções dentro do jsx para fazer a div share aparecer e sumir quando clica no botão share
