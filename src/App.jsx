@@ -3,7 +3,7 @@ import './App.css'
 /*images*/
 import banner from "../public/images/drawers.jpg";
 /*components*/
-import UserComment from "./components/userComment";
+import UserComment from "./components/userComment.jsx";
 function App() {
   return (
       <>
