@@ -1,8 +1,4 @@
-#root{
-    width:90%;
-    display:flex;
-    border-radius:10px;
-}
+
 #root .banner{
     width:300px;
     border-radius:10px 0 0 10px;
